@@ -12,11 +12,12 @@
 ![Static Badge](https://img.shields.io/badge/Copy-Link-copylink)
 
 ```lua
-loadstring(game:HttpGet("https://github.com/joshy-5/axiom/raw/refs/heads/main/main.lua"))
+loadstring(game:HttpGet("[https://github.com/joshy-5/axiom/raw/refs/heads/main/main.lua](https://github.com/AxiomSoftworks/Axiom/raw/refs/heads/main/main.lua)"))
 ```
 
 ## Changelogs
 
-```markdown
+```md
 [+] Universal Script Done
+[*] Arsenal Script WIP
 ```
