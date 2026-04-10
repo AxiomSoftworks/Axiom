@@ -1,1 +1,2 @@
-[+] Universal Game Support!
+[+] Universal Script Done
+[*] Arsenal Script WIP
